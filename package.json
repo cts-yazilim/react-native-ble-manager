@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "react-native-ble-manager@6.6.2",
+      "C:\\GitLab\\yas_cay_alim_mobil"
+    ]
+  ],
+  "_from": "react-native-ble-manager@6.6.2",
+  "_id": "react-native-ble-manager@6.6.2",
+  "_inBundle": false,
+  "_integrity": "sha512-EJqG26zFEmS8tJ7tDWVAhB60j/5un4kJSLpurv7eE0IuGRd9htSJ5vb/9iGl2D75GsDHgknWjddG6OMGCPcwDg==",
+  "_location": "/react-native-ble-manager",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-ble-manager@6.6.2",
+    "name": "react-native-ble-manager",
+    "escapedName": "react-native-ble-manager",
+    "rawSpec": "6.6.2",
+    "saveSpec": null,
+    "fetchSpec": "6.6.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-ble-manager/-/react-native-ble-manager-6.6.2.tgz",
+  "_spec": "6.6.2",
+  "_where": "C:\\GitLab\\yas_cay_alim_mobil",
+  "author": {
+    "name": "Innove",
+    "url": "https://github.com/innoveit"
+  },
+  "bugs": {
+    "url": "https://github.com/innoveit/react-native-ble-manager/issues"
+  },
+  "description": "A BLE module for react native.",
+  "homepage": "https://github.com/innoveit/react-native-ble-manager#readme",
+  "keywords": [
+    "react-native",
+    "android",
+    "ios",
+    "ble",
+    "bluetooth",
+    "low energy"
+  ],
+  "license": "Apache-2.0",
+  "main": "BleManager",
+  "name": "react-native-ble-manager",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innoveit/react-native-ble-manager.git"
+  },
+  "scripts": {
+    "postversion": "git push && git push --tags",
+    "version": "git add -A"
+  },
+  "types": "./index.d.ts",
+  "version": "6.6.2"
+}
